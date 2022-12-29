@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about cloud technologies 
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about front-end web technologies, backend technologies, Docker , Aws, Kubernetes
-- 📫 How to reach me:email uzochukwunwigwe@gmail.com
+- 📫 How to reach me: email uzochukwunwigwe@gmail.com
 
 
 <!--
