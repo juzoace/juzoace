@@ -1,11 +1,11 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) thank you for checking on my repo. Feel free to use any of the project to your own satisfaction
 
 
-- 🔭 I’m a full-stack developer currently working with technologies such as Html, Css, Javascript, Vue.js,  React.js, Redux (toolkit), Tailwind, Node.js, Typescript, Express.js, MongoDB, Docker, Kubernetes, AWS
+- 🔭 I’m a full-stack developer currently working with technologies such as Html, Css, Javascript,  React.js, Redux (toolkit), Tailwind, Node.js, Typescript, Nest.js,  Express.js, MongoDB, MySql, Docker, Kubernetes, AWS
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about front-end & backend technologies
 - 📫 How to reach me: email uzochukwunwigwe@gmail.com
-* 🧠  I'm currently learning Microservices architecture & development on cloud services like (AWS, Google cloud platform), system design and design patterns
+* 🧠  I've started gaining experience in fintech. Building microservices using kafka, Nest.js, MySQL, Paystack and other exciting technologies
 
 ### Skills
 
